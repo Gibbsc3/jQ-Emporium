@@ -1,0 +1,28 @@
+html {
+  background-image: url('http://www.betcirca.com/wp-content/uploads/2014/12/Dallas-Mavericks-NBA-Champions-Wallpaper.jpg');
+  background-position: center;
+  background-size: cover;
+}
+body {
+  background-color: transparent !important;
+}
+img {
+  width: 100%;
+}
+.box2 {
+  overflow: hidden;
+}
+
+
+main {
+margin-top: 50px;
+
+}
+
+.btnRow {
+
+}
+
+.button-list {
+  
+}
